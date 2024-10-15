@@ -1,7 +1,7 @@
 # .onchain memories
 
 <p align="center">
-  <img width="400" alt="Secured by Polkadot" src="https://nftstorage.link/ipfs/bafkreiew4vkf7ue5tdmuolgo4n7qapotgc37wgjnyniacsrqxhsnuqgw7u">
+  <img alt="Secured by Polkadot" src="https://pbs.twimg.com/profile_banners/1810308226128453632/1728732923">
 </p>
 
 
